@@ -50,4 +50,7 @@ Page view of courses content
 
 <img src="assets/readme_data/ss5.png" width=100%><br>
 
+## Demo Video link
+https://drive.google.com/file/d/1cKJKHh3dJQcoH1Mzsrnc29_5vhNa1XqT/view?usp=sharing
+
 #### Thank You!🥇
